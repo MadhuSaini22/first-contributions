@@ -825,6 +825,7 @@ Justin Villena
 - Nicolas Perez
 - Ashish Suman
 - Kamil Roszuk
+- [Parma Ram](https://github.com/parma1111)
 - [GulliverMadrid](https://github.com/GulliverMadrid)
 - [Twinotters](https://github.com/Twinotters)
 - [Veronica Soden]
